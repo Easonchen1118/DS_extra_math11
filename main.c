@@ -1,5 +1,5 @@
 #include <stdio.h>
-//購票計算
+//購票計算https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6885
 int main(){
     int num;
     scanf("%d", &num);
